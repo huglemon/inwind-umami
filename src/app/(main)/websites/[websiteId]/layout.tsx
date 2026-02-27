@@ -15,7 +15,7 @@ export default async function ({
 
 export const metadata: Metadata = {
   title: {
-    template: '%s | Umami',
-    default: 'Websites | Umami',
+    template: '%s | 乘风出海',
+    default: '网站 | 乘风出海',
   },
 };

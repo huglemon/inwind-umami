@@ -481,7 +481,7 @@ export const messages = defineMessages({
   },
   newVersionAvailable: {
     id: 'message.new-version-available',
-    defaultMessage: 'A new version of Umami {version} is available!',
+    defaultMessage: '乘风出海 {version} 新版本已发布！',
   },
   transferWebsite: {
     id: 'message.transfer-website',
