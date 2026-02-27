@@ -35,7 +35,7 @@ export function LoginForm() {
       <Icon size="lg">
         <Logo />
       </Icon>
-      <Heading>umami</Heading>
+      <Heading>乘风出海</Heading>
       <Form onSubmit={handleSubmit} error={getErrorMessage(error)}>
         <FormField
           label={formatMessage(labels.username)}
